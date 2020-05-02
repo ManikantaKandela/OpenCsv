@@ -7,7 +7,8 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Provide brief description about IDataExporter
+ * CSV stands for ‘Comma Separated Values’, Generally we use CSV files as a data backup files for our databases.
+ * We can import or export our data into CSV files. Currently Java 8 is the minimum supported version for OpenCSV. 
  *
  * @author skandela
  */
